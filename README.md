@@ -25,7 +25,7 @@ A SaaS platform with AI features, offering a wide range of image transformation 
 **Technologies:** Next.js, Cloudinary AI , Clerk Authentication
 
 ### 5. ConvoSpace
-A Zoom clone project featuring personal rooms, meeting scheduling, and an AI chatbot. Utilizes Next.js and GetStream.io.
+A real world quality video conferencing app project featuring personal rooms, meeting scheduling, and an AI chatbot. Utilizes Next.js and GetStream.io.
 
 **Technologies:** Next.js, AI Chatbot, GetStream.io
 
