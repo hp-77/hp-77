@@ -30,7 +30,7 @@ A Zoom clone project featuring personal rooms, meeting scheduling, and an AI cha
 **Technologies:** Next.js, AI Chatbot, GetStream.io
 
 ## 🌐 Portfolio
-Check out my portfolio website for more details about my work and projects: [Your Portfolio Website](https://harshpant-iota.vercel.app/)
+Check out my portfolio website for more details about my work and projects: [My Portfolio Website](https://harshpant-iota.vercel.app/)
 
 ## 🏆 Achievements
 - **Best Intern Performer at Integra Works**: Recognized by the Director of Integra works India for outstanding performance.
